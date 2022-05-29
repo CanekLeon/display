@@ -22,3 +22,8 @@ article, span {
 article div{
     margin: 20px;
 }
+
+p {
+    background-color: blue;
+    border-radius: 5px;
+}
