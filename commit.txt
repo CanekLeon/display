@@ -1,0 +1,11 @@
+commit 87389897d5235295de320d687fabc5ad5871ec08
+Author: Paco <ing.justoleonbaak@gmail.com>
+Date:   Sun May 29 12:11:17 2022 -0500
+
+    Se agrego una etiqueta p y color azul de fondo igual un padding
+
+commit d74cf41d8553e445444c325cf84fe068dbd9b7d5
+Author: Paco <ing.justoleonbaak@gmail.com>
+Date:   Sat May 28 22:40:03 2022 -0500
+
+    Iniciamos
